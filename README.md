@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hey, I'm Marv 👋
 
-<!--
-**marb17/marb17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a student building projects at the intersection of
+**data science, machine learning, and audio technology**.
 
-Here are some ideas to get you started:
+### 🔥 Featured Project
+- **Miraa Alternative** – Multilingual audio analysis & translation pipeline
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧰 Tech I use
+- Python, PyTorch
+- Audio & signal processing
+- API handling
+- Music stem separation
+- ML model integration
+- HTML-based data visualization
+
+Currently learning deeper ML + data science fundamentals.
