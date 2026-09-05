@@ -30,9 +30,3 @@ I'm a student builder working at the intersection of **Data Science, Machine Lea
 ### 📚 Currently Exploring
 - Deepening my core Machine Learning and Data Science fundamentals
 - Optimizing real-time DSP models for low-latency audio applications
-
----
-
-<p align="center">
-  <i>Fueling my audio ML research and code with my big peach fruit daily! 🍑</i>
-</p>
