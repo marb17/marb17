@@ -16,14 +16,16 @@ I'm a student builder working at the intersection of **Data Science, Machine Lea
 
 ---
 
-### 🧰 Tech & Tools
+### 🧰 Tech, Hardware & Tools
 
-| Domain | Technologies & Skills |
+| Category | Tools & Technologies |
 | :--- | :--- |
-| **Languages & Frameworks** | Python, PyTorch, Textual |
-| **Audio & DSP** | Signal Processing, Music Stem Separation, Real-Time Audio Streams |
-| **Machine Learning & Data** | Model Integration, Data Pipelines, Core ML & DS Fundamentals |
-| **Software & Interfaces** | API Handling, TUI Development, System Architecture |
+| **Languages & Frameworks** | Python, PyTorch, MicroPython |
+| **Audio Processing & ML** | Signal Processing, Music Stem Separation, Real-Time Audio Streams |
+| **Developer Tools & Environments** | PyCharm, Termius (SSH), TUI Frameworks (Textual) |
+| **Embedded & Hardware** | Raspberry Pi, ESP32, PCF8575 |
+| **Photo & Video Production** | Canon EOS R6 Mark II, DaVinci Resolve Studio, Adobe Lightroom, Photoshop |
+| **Live Audio & Video** | Ableton Live, Digital Mixing Consoles, Musician |
 
 ---
 
