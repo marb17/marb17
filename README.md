@@ -1,17 +1,38 @@
-## Hey, I'm Marv 👋
+# Hi there, I'm Marv 👋 🍑
 
-I'm a student building projects at the intersection of
-**data science, machine learning, and audio technology**.
+I'm a student builder working at the intersection of **Data Science, Machine Learning, and Audio/Music Technology**. I focus on processing signals, building real-time audio pipelines, and integrating ML models into usable tools.
 
-### 🔥 Featured Project
-- **Miraa Alternative** – Multilingual audio analysis & translation pipeline
+---
 
-### 🧰 Tech I use
-- Python, PyTorch
-- Audio & signal processing
-- API handling
-- Music stem separation
-- ML model integration
-- HTML-based data visualization
+### 🔥 Featured Projects
 
-Currently learning deeper ML + data science fundamentals.
+- **[Miraa Alternative](https://github.com/marb17/miraa-alternative)**  
+  *Multilingual audio analysis & translation pipeline*  
+  Processes complex multi-track audio to analyze, transcribe, and translate audio in real time across languages.
+
+- **[chord-analyzer](https://github.com/marb17/chord-analyzer)**  
+  *Real-time chord detection & analysis engine*  
+  A signal-processing pipeline designed to extract musical chords from live or recorded audio streams.
+
+---
+
+### 🧰 Tech & Tools
+
+| Domain | Technologies & Skills |
+| :--- | :--- |
+| **Languages & Frameworks** | Python, PyTorch |
+| **Audio & DSP** | Signal Processing, Music Stem Separation, Real-Time Audio Streams |
+| **Machine Learning & Data** | Model Integration, Data Pipelines, Core ML & DS Fundamentals |
+| **Software & Interfaces** | API Handling, TUI Development, System Architecture |
+
+---
+
+### 📚 Currently Exploring
+- Deepening my core Machine Learning and Data Science fundamentals
+- Optimizing real-time DSP models for low-latency audio applications
+
+---
+
+<p align="center">
+  <i>Fueling my audio ML research and code with my big peach fruit daily! 🍑</i>
+</p>
