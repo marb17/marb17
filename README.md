@@ -20,7 +20,7 @@ I'm a student builder working at the intersection of **Data Science, Machine Lea
 
 | Domain | Technologies & Skills |
 | :--- | :--- |
-| **Languages & Frameworks** | Python, PyTorch |
+| **Languages & Frameworks** | Python, PyTorch, Textual |
 | **Audio & DSP** | Signal Processing, Music Stem Separation, Real-Time Audio Streams |
 | **Machine Learning & Data** | Model Integration, Data Pipelines, Core ML & DS Fundamentals |
 | **Software & Interfaces** | API Handling, TUI Development, System Architecture |
